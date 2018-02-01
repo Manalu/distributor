@@ -1,0 +1,157 @@
+[15-Oct-2014 03:37:13 America/Chicago] PHP Fatal error:  Cannot use object of type CI_DB_mysql_result as array in /home/stateplu/public_html/gulf/application/views/type/edit.php on line 17
+[15-Oct-2014 03:37:16 America/Chicago] PHP Fatal error:  Cannot use object of type CI_DB_mysql_result as array in /home/stateplu/public_html/gulf/application/views/type/edit.php on line 17
+[15-Oct-2014 03:37:57 America/Chicago] PHP Parse error:  syntax error, unexpected '?>' in /home/stateplu/public_html/gulf/application/views/type/edit.php on line 22
+[19-Oct-2014 05:09:05 America/Chicago] PHP Fatal error:  Call to a member function result() on a non-object in /home/stateplu/public_html/gulf/application/views/store/storelist.php on line 38
+[19-Oct-2014 05:09:26 America/Chicago] PHP Fatal error:  Call to a member function result() on a non-object in /home/stateplu/public_html/gulf/application/views/store/storelist.php on line 38
+[19-Oct-2014 05:09:29 America/Chicago] PHP Fatal error:  Call to a member function result() on a non-object in /home/stateplu/public_html/gulf/application/views/store/storelist.php on line 38
+[19-Oct-2014 05:09:47 America/Chicago] PHP Fatal error:  Call to a member function result() on a non-object in /home/stateplu/public_html/gulf/application/views/store/storelist.php on line 38
+[19-Oct-2014 05:09:51 America/Chicago] PHP Fatal error:  Call to a member function result() on a non-object in /home/stateplu/public_html/gulf/application/views/store/storelist.php on line 38
+[19-Oct-2014 05:13:55 America/Chicago] PHP Fatal error:  Call to a member function result() on a non-object in /home/stateplu/public_html/gulf/application/views/store/storelist.php on line 36
+[24-Oct-2014 06:42:55 America/Chicago] PHP Fatal error:  Call to a member function UpdateOrItems() on a non-object in /home/stateplu/public_html/gulf/application/controllers/order.php on line 175
+[24-Oct-2014 09:20:11 America/Chicago] PHP Parse error:  syntax error, unexpected '$comp' (T_VARIABLE) in /home/stateplu/public_html/gulf/application/models/medicinemodel.php on line 24
+[24-Oct-2014 09:20:28 America/Chicago] PHP Parse error:  syntax error, unexpected '$comp' (T_VARIABLE) in /home/stateplu/public_html/gulf/application/models/medicinemodel.php on line 24
+[25-Oct-2014 05:58:59 America/Chicago] PHP Fatal error:  Call to a member function SearchMed() on a non-object in /home/stateplu/public_html/gulf/application/controllers/supplier.php on line 76
+[25-Oct-2014 05:58:59 America/Chicago] PHP Fatal error:  Call to a member function SearchMed() on a non-object in /home/stateplu/public_html/gulf/application/controllers/supplier.php on line 76
+[25-Oct-2014 05:58:59 America/Chicago] PHP Fatal error:  Call to a member function SearchMed() on a non-object in /home/stateplu/public_html/gulf/application/controllers/supplier.php on line 76
+[25-Oct-2014 05:58:59 America/Chicago] PHP Fatal error:  Call to a member function SearchMed() on a non-object in /home/stateplu/public_html/gulf/application/controllers/supplier.php on line 76
+[25-Oct-2014 05:59:00 America/Chicago] PHP Fatal error:  Call to a member function SearchMed() on a non-object in /home/stateplu/public_html/gulf/application/controllers/supplier.php on line 76
+[25-Oct-2014 05:59:01 America/Chicago] PHP Fatal error:  Call to a member function SearchMed() on a non-object in /home/stateplu/public_html/gulf/application/controllers/supplier.php on line 76
+[14-Oct-2015 21:11:30 Asia/Dhaka] PHP Fatal error:  Call to undefined method clientsmodel::getAllInvoicesOfTheClient() in /home/focus/public_html/capsol/application/controllers/clients.php on line 63
+[14-Oct-2015 21:12:13 Asia/Dhaka] PHP Fatal error:  Call to undefined method clientsmodel::getAllInvoicesOfTheClient() in /home/focus/public_html/capsol/application/controllers/clients.php on line 63
+[14-Oct-2015 22:53:46 Asia/Dhaka] PHP Fatal error:  Cannot use object of type CI_DB_mysql_result as array in /home/focus/public_html/capsol/application/views/clients/viewclnt.php on line 16
+[18-Oct-2015 13:11:49 Asia/Dhaka] PHP Fatal error:  Maximum execution time of 300 seconds exceeded in /home/focus/public_html/capsol/application/controllers/dompdf/include/frame.cls.php on line 988
+[18-Oct-2015 15:06:33 Asia/Dhaka] PHP Fatal error:  require_once(): Failed opening required 'tcpdf/config/lang/eng.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/focus/public_html/capsol/application/helpers/pdf_helper.php on line 9
+[18-Oct-2015 15:08:42 Asia/Dhaka] PHP Fatal error:  require_once(): Failed opening required 'tcpdf/config/lang/eng.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/focus/public_html/capsol/application/helpers/pdf_helper.php on line 9
+[18-Oct-2015 21:26:04 Asia/Dhaka] PHP Fatal error:  Call to a member function getPreviousClosingData() on a non-object in /home/focus/public_html/capsol/application/controllers/settings.php on line 41
+[18-Oct-2015 23:52:11 Asia/Dhaka] PHP Fatal error:  Call to undefined method stdClass::result() in /home/focus/public_html/capsol/application/views/settings/dayclosing.php on line 22
+[19-Oct-2015 15:52:17 Asia/Dhaka] PHP Fatal error:  Call to undefined method stdClass::result() in /home/focus/public_html/capsol/application/views/order/orderlist.php on line 77
+[19-Oct-2015 16:29:30 Asia/Dhaka] PHP Fatal error:  Call to undefined method stdClass::result() in /home/focus/public_html/capsol/application/views/order/orderlist.php on line 127
+[19-Oct-2015 17:52:19 Asia/Dhaka] PHP Fatal error:  Call to undefined function getMedzNamesOnlyForAddStock() in /home/focus/public_html/capsol/application/controllers/medicine.php on line 294
+[25-Oct-2015 19:50:28 Asia/Dhaka] PHP Fatal error:  Call to undefined method dashboardmodel::getDueSalesWidgetData() in /home/focus/public_html/capsol/application/controllers/dashboard.php on line 36
+[25-Oct-2015 19:51:04 Asia/Dhaka] PHP Fatal error:  Call to undefined method dashboardmodel::getDueSalesWidgetData() in /home/focus/public_html/capsol/application/controllers/dashboard.php on line 36
+[26-Oct-2015 13:26:28 Asia/Dhaka] PHP Fatal error:  Call to undefined method settingsmodel::getAllSaleOfTheDay() in /home/focus/public_html/capsol/application/controllers/settings.php on line 194
+[26-Oct-2015 15:37:22 Asia/Dhaka] PHP Fatal error:  Call to undefined method stdClass::num_rows() in /home/focus/public_html/capsol/application/models/settingsmodel.php on line 280
+[14-Jan-2016 15:57:45 Asia/Dhaka] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/focus/public_html/capsol/application/models/medicinemodel.php on line 15
+[21-Jan-2016 18:25:55 Asia/Dhaka] PHP Fatal error:  Call to a member function row() on a non-object in /home/focus/public_html/capsol/application/models/clientsmodel.php on line 149
+[25-Jan-2016 14:54:30 Asia/Dhaka] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/focus/public_html/capsol/application/models/salesmodel.php on line 819
+[25-Jan-2016 15:41:20 Asia/Dhaka] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/focus/public_html/capsol/application/models/dashboardmodel.php on line 119
+[25-Jan-2016 15:42:54 Asia/Dhaka] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/focus/public_html/capsol/application/models/dashboardmodel.php on line 119
+[25-Jan-2016 17:56:35 Asia/Dhaka] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/focus/public_html/capsol/application/models/dashboardmodel.php on line 119
+[25-Jan-2016 17:59:42 Asia/Dhaka] PHP Fatal error:  Call to a member function row() on a non-object in /home/focus/public_html/capsol/application/models/dashboardmodel.php on line 120
+[25-Jan-2016 18:00:26 Asia/Dhaka] PHP Fatal error:  Call to a member function row() on a non-object in /home/focus/public_html/capsol/application/models/dashboardmodel.php on line 118
+[25-Jan-2016 18:01:18 Asia/Dhaka] PHP Fatal error:  Call to a member function row() on a non-object in /home/focus/public_html/capsol/application/models/dashboardmodel.php on line 118
+[25-Jan-2016 18:01:44 Asia/Dhaka] PHP Fatal error:  Call to a member function row() on a non-object in /home/focus/public_html/capsol/application/models/dashboardmodel.php on line 118
+[25-Jan-2016 18:09:36 Asia/Dhaka] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/focus/public_html/capsol/application/models/dashboardmodel.php on line 119
+[25-Jan-2016 18:15:32 Asia/Dhaka] PHP Fatal error:  Call to a member function row() on a non-object in /home/focus/public_html/capsol/application/models/dashboardmodel.php on line 118
+[01-Feb-2016 13:35:58 Asia/Dhaka] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/focus/public_html/capsol/application/models/salesmodel.php on line 432
+[01-Feb-2016 13:36:32 Asia/Dhaka] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/focus/public_html/capsol/application/models/salesmodel.php on line 432
+[01-Feb-2016 14:01:48 Asia/Dhaka] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/focus/public_html/capsol/application/models/salesmodel.php on line 432
+[01-Feb-2016 20:13:14 Asia/Dhaka] PHP Fatal error:  Class 'Date' not found in /home/focus/public_html/capsol/application/controllers/accounts.php on line 84
+[16-Mar-2016 00:12:41 Asia/Dhaka] PHP Fatal error:  Call to undefined method test::get_client_ip() in /home/focus/public_html/capsol/application/controllers/test.php on line 12
+[12-Aug-2016 06:24:42 Asia/Dhaka] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/focus/public_html/capsol/application/models/ordermodel.php on line 296
+[31-Oct-2016 20:06:50 Asia/Dhaka] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/focus/public_html/capsol/application/models/ordermodel.php on line 296
+[31-Oct-2016 20:09:12 Asia/Dhaka] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/focus/public_html/capsol/application/models/ordermodel.php on line 296
+[31-Oct-2016 20:37:14 Asia/Dhaka] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/focus/public_html/capsol/application/models/ordermodel.php on line 296
+[31-Oct-2016 20:37:55 Asia/Dhaka] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/focus/public_html/capsol/application/models/ordermodel.php on line 296
+[06-May-2017 23:45:56 Asia/Dhaka] PHP Fatal error:  Call to a member function getSupplierListForMedicineController() on null in /home/rafizagency/public_html/application/controllers/settings.php on line 71
+[07-May-2017 19:10:44 Asia/Dhaka] PHP Fatal error:  Call to undefined function getcustomerforsalespanel() in /home/rafizagency/public_html/application/controllers/sales.php on line 113
+[11-May-2017 11:01:16 Asia/Dhaka] PHP Fatal error:  Call to a member function destroy() on null in /home/rafizagency/public_html/application/controllers/sales.php on line 39
+[11-May-2017 11:12:00 Asia/Dhaka] PHP Fatal error:  Call to a member function destroy() on null in /home/rafizagency/public_html/application/controllers/sales.php on line 39
+[11-May-2017 12:14:09 Asia/Dhaka] PHP Fatal error:  Cannot use object of type stdClass as array in /home/rafizagency/public_html/application/views/sales/queue.php on line 97
+[11-May-2017 12:14:53 Asia/Dhaka] PHP Fatal error:  Cannot use object of type stdClass as array in /home/rafizagency/public_html/application/views/sales/queue.php on line 97
+[11-May-2017 20:26:55 Asia/Dhaka] PHP Fatal error:  Call to a member function num_rows() on boolean in /home/rafizagency/public_html/application/controllers/sales.php on line 98
+[14-May-2017 19:18:34 Asia/Dhaka] PHP Fatal error:  Call to undefined function getTotalAmountSoldToClientByClientId() in /home/rafizagency/public_html/application/views/clients/viewclnt.php on line 32
+[14-May-2017 19:20:04 Asia/Dhaka] PHP Fatal error:  Call to undefined function getTotalAmountSoldToClientByClientId() in /home/rafizagency/public_html/application/views/clients/viewclnt.php on line 32
+[14-May-2017 19:22:16 Asia/Dhaka] PHP Fatal error:  Call to undefined function getTotalNumberOfInvoiceSoldToClientByClientId() in /home/rafizagency/public_html/application/views/clients/viewclnt.php on line 36
+[14-May-2017 19:30:05 Asia/Dhaka] PHP Fatal error:  Call to undefined method salesmodel::get_sales_items() in /home/rafizagency/public_html/application/controllers/clients.php on line 105
+[16-May-2017 20:40:02 Asia/Dhaka] PHP Fatal error:  Call to a member function num_rows() on boolean in /home/rafizagency/public_html/application/controllers/sales.php on line 71
+[17-May-2017 01:01:56 Asia/Dhaka] PHP Fatal error:  Call to a member function num_rows() on boolean in /home/rafizagency/public_html/application/controllers/sales.php on line 83
+[21-May-2017 00:14:13 Asia/Dhaka] PHP Fatal error:  Call to undefined function st() in /home/rafizagency/public_html/application/controllers/clients.php on line 69
+[21-May-2017 01:46:25 Asia/Dhaka] PHP Fatal error:  Call to a member function num_rows() on boolean in /home/rafizagency/public_html/application/controllers/sales.php on line 72
+[28-May-2017 10:09:39 Asia/Dhaka] PHP Fatal error:  Call to a member function getSupplierListForMedicineController() on null in /home/rafizagency/public_html/application/controllers/settings.php on line 71
+[31-May-2017 12:04:26 Asia/Dhaka] PHP Fatal error:  Call to a member function getSupplierListForMedicineController() on null in /home/rafizagency/public_html/application/controllers/settings.php on line 71
+[31-May-2017 12:13:16 Asia/Dhaka] PHP Fatal error:  Call to a member function num_rows() on boolean in /home/rafizagency/public_html/application/controllers/employee.php on line 124
+[31-May-2017 18:07:27 Asia/Dhaka] PHP Fatal error:  Call to a member function getSupplierListForMedicineController() on null in /home/rafizagency/public_html/application/controllers/settings.php on line 71
+[02-Jun-2017 11:36:00 Asia/Dhaka] PHP Fatal error:  Call to undefined method employeemodel::update_employee_info() in /home/rafizagency/public_html/application/controllers/employee.php on line 92
+[02-Jun-2017 11:36:20 Asia/Dhaka] PHP Fatal error:  Call to undefined method employeemodel::update_employee_info() in /home/rafizagency/public_html/application/controllers/employee.php on line 92
+[02-Jun-2017 11:36:41 Asia/Dhaka] PHP Fatal error:  Call to undefined method employeemodel::update_employee_info() in /home/rafizagency/public_html/application/controllers/employee.php on line 92
+[04-Jun-2017 14:23:41 Asia/Dhaka] PHP Fatal error:  Call to a member function num_rows() on boolean in /home/rafizagency/public_html/application/controllers/sales.php on line 72
+[04-Jun-2017 14:25:40 Asia/Dhaka] PHP Fatal error:  Call to a member function num_rows() on boolean in /home/rafizagency/public_html/application/controllers/sales.php on line 72
+[06-Jun-2017 11:32:28 Asia/Dhaka] PHP Fatal error:  Call to a member function result() on boolean in /home/rafizagency/public_html/application/views/accounts/get_ledger_head_for_voucher.php on line 17
+[06-Jun-2017 11:34:24 Asia/Dhaka] PHP Fatal error:  Call to a member function result() on boolean in /home/rafizagency/public_html/application/views/accounts/get_ledger_head_for_voucher.php on line 17
+[06-Jun-2017 12:06:20 Asia/Dhaka] PHP Fatal error:  Call to undefined method employeemodel::update_employee_info() in /home/rafizagency/public_html/application/controllers/employee.php on line 92
+[06-Jun-2017 12:06:28 Asia/Dhaka] PHP Fatal error:  Call to undefined method employeemodel::update_employee_info() in /home/rafizagency/public_html/application/controllers/employee.php on line 92
+[06-Jun-2017 12:06:39 Asia/Dhaka] PHP Fatal error:  Call to undefined method employeemodel::update_employee_info() in /home/rafizagency/public_html/application/controllers/employee.php on line 92
+[06-Jun-2017 12:06:58 Asia/Dhaka] PHP Fatal error:  Call to undefined method employeemodel::update_employee_info() in /home/rafizagency/public_html/application/controllers/employee.php on line 92
+[06-Jun-2017 12:07:18 Asia/Dhaka] PHP Fatal error:  Call to undefined method employeemodel::update_employee_info() in /home/rafizagency/public_html/application/controllers/employee.php on line 92
+[06-Jun-2017 12:07:24 Asia/Dhaka] PHP Fatal error:  Call to undefined method employeemodel::update_employee_info() in /home/rafizagency/public_html/application/controllers/employee.php on line 92
+[06-Jun-2017 13:19:31 Asia/Dhaka] PHP Fatal error:  Call to a member function num_rows() on boolean in /home/rafizagency/public_html/application/controllers/sales.php on line 72
+[06-Jun-2017 13:19:38 Asia/Dhaka] PHP Fatal error:  Call to a member function num_rows() on boolean in /home/rafizagency/public_html/application/controllers/sales.php on line 72
+[12-Jun-2017 11:24:35 Asia/Dhaka] PHP Fatal error:  Call to undefined method employeemodel::update_employee_info() in /home/rafizagency/public_html/application/controllers/employee.php on line 92
+[12-Jun-2017 11:24:53 Asia/Dhaka] PHP Fatal error:  Call to undefined method employeemodel::update_employee_info() in /home/rafizagency/public_html/application/controllers/employee.php on line 92
+[12-Jun-2017 11:27:03 Asia/Dhaka] PHP Fatal error:  Call to undefined method employeemodel::update_employee_info() in /home/rafizagency/public_html/application/controllers/employee.php on line 92
+[12-Jun-2017 12:56:04 Asia/Dhaka] PHP Fatal error:  Call to a member function result() on boolean in /home/rafizagency/public_html/application/views/accounts/get_ledger_head_for_voucher.php on line 17
+[14-Jun-2017 13:05:24 Asia/Dhaka] PHP Fatal error:  Call to undefined method employeemodel::update_employee_info() in /home/rafizagency/public_html/application/controllers/employee.php on line 92
+[14-Jun-2017 13:05:42 Asia/Dhaka] PHP Fatal error:  Call to undefined method employeemodel::update_employee_info() in /home/rafizagency/public_html/application/controllers/employee.php on line 92
+[14-Jun-2017 14:24:29 Asia/Dhaka] PHP Fatal error:  Call to a member function num_rows() on boolean in /home/rafizagency/public_html/application/controllers/sales.php on line 72
+[14-Jun-2017 14:24:41 Asia/Dhaka] PHP Fatal error:  Call to a member function num_rows() on boolean in /home/rafizagency/public_html/application/controllers/sales.php on line 72
+[14-Jun-2017 14:25:10 Asia/Dhaka] PHP Fatal error:  Call to a member function num_rows() on boolean in /home/rafizagency/public_html/application/controllers/sales.php on line 72
+[14-Jun-2017 14:25:29 Asia/Dhaka] PHP Fatal error:  Call to a member function num_rows() on boolean in /home/rafizagency/public_html/application/controllers/sales.php on line 72
+[14-Jun-2017 14:26:23 Asia/Dhaka] PHP Fatal error:  Call to a member function num_rows() on boolean in /home/rafizagency/public_html/application/controllers/sales.php on line 72
+[15-Jun-2017 14:29:45 Asia/Dhaka] PHP Fatal error:  Call to undefined method employeemodel::update_employee_info() in /home/rafizagency/public_html/application/controllers/employee.php on line 92
+[15-Jun-2017 14:29:56 Asia/Dhaka] PHP Fatal error:  Call to undefined method employeemodel::update_employee_info() in /home/rafizagency/public_html/application/controllers/employee.php on line 92
+[15-Jun-2017 14:30:42 Asia/Dhaka] PHP Fatal error:  Call to undefined method employeemodel::update_employee_info() in /home/rafizagency/public_html/application/controllers/employee.php on line 92
+[15-Jun-2017 14:30:48 Asia/Dhaka] PHP Fatal error:  Call to undefined method employeemodel::update_employee_info() in /home/rafizagency/public_html/application/controllers/employee.php on line 92
+[15-Jun-2017 14:31:17 Asia/Dhaka] PHP Fatal error:  Call to undefined method employeemodel::update_employee_info() in /home/rafizagency/public_html/application/controllers/employee.php on line 92
+[15-Jun-2017 14:31:33 Asia/Dhaka] PHP Fatal error:  Call to undefined method employeemodel::update_employee_info() in /home/rafizagency/public_html/application/controllers/employee.php on line 92
+[15-Jun-2017 14:31:52 Asia/Dhaka] PHP Fatal error:  Call to undefined method employeemodel::update_employee_info() in /home/rafizagency/public_html/application/controllers/employee.php on line 92
+[15-Jun-2017 14:35:35 Asia/Dhaka] PHP Fatal error:  Call to undefined method employeemodel::update_employee_info() in /home/rafizagency/public_html/application/controllers/employee.php on line 92
+[15-Jun-2017 14:36:04 Asia/Dhaka] PHP Fatal error:  Call to undefined method employeemodel::update_employee_info() in /home/rafizagency/public_html/application/controllers/employee.php on line 92
+[15-Jun-2017 14:36:10 Asia/Dhaka] PHP Fatal error:  Call to undefined method employeemodel::update_employee_info() in /home/rafizagency/public_html/application/controllers/employee.php on line 92
+[15-Jun-2017 14:36:16 Asia/Dhaka] PHP Fatal error:  Call to undefined method employeemodel::update_employee_info() in /home/rafizagency/public_html/application/controllers/employee.php on line 92
+[15-Jun-2017 16:25:18 Asia/Dhaka] PHP Fatal error:  Call to undefined method employeemodel::update_employee_info() in /home/rafizagency/public_html/application/controllers/employee.php on line 92
+[15-Jun-2017 16:25:42 Asia/Dhaka] PHP Fatal error:  Call to undefined method employeemodel::update_employee_info() in /home/rafizagency/public_html/application/controllers/employee.php on line 92
+[16-Jun-2017 10:45:15 Asia/Dhaka] PHP Fatal error:  Call to undefined method employeemodel::update_employee_info() in /home/rafizagency/public_html/application/controllers/employee.php on line 92
+[16-Jun-2017 11:42:51 Asia/Dhaka] PHP Fatal error:  Call to undefined method employeemodel::update_employee_info() in /home/rafizagency/public_html/application/controllers/employee.php on line 92
+[17-Jun-2017 10:23:55 Asia/Dhaka] PHP Fatal error:  Call to undefined method employeemodel::update_employee_info() in /home/rafizagency/public_html/application/controllers/employee.php on line 92
+[17-Jun-2017 10:24:12 Asia/Dhaka] PHP Fatal error:  Call to undefined method employeemodel::update_employee_info() in /home/rafizagency/public_html/application/controllers/employee.php on line 92
+[17-Jun-2017 12:34:38 Asia/Dhaka] PHP Fatal error:  Call to undefined method employeemodel::update_employee_info() in /home/rafizagency/public_html/application/controllers/employee.php on line 92
+[17-Jun-2017 15:06:54 Asia/Dhaka] PHP Fatal error:  Call to undefined method employeemodel::update_employee_info() in /home/rafizagency/public_html/application/controllers/employee.php on line 92
+[17-Jun-2017 15:06:54 Asia/Dhaka] PHP Fatal error:  Call to undefined method employeemodel::update_employee_info() in /home/rafizagency/public_html/application/controllers/employee.php on line 92
+[17-Jun-2017 17:32:43 Asia/Dhaka] PHP Fatal error:  Call to a member function result() on boolean in /home/rafizagency/public_html/application/views/accounts/get_ledger_head_for_voucher.php on line 17
+[19-Jun-2017 11:48:27 Asia/Dhaka] PHP Fatal error:  Call to undefined method employeemodel::update_employee_info() in /home/rafizagency/public_html/application/controllers/employee.php on line 92
+[19-Jun-2017 17:40:21 Asia/Dhaka] PHP Fatal error:  Call to undefined method employeemodel::update_employee_info() in /home/rafizagency/public_html/application/controllers/employee.php on line 92
+[19-Jun-2017 17:40:57 Asia/Dhaka] PHP Fatal error:  Call to undefined method employeemodel::update_employee_info() in /home/rafizagency/public_html/application/controllers/employee.php on line 92
+[19-Jun-2017 17:43:14 Asia/Dhaka] PHP Fatal error:  Call to a member function result() on boolean in /home/rafizagency/public_html/application/views/accounts/get_ledger_head_for_voucher.php on line 17
+[21-Jun-2017 01:10:52 Asia/Dhaka] PHP Fatal error:  Call to undefined method employeemodel::update_employee_info() in /home/rafizagency/public_html/application/controllers/employee.php on line 92
+[23-Jun-2017 16:16:14 Asia/Dhaka] PHP Fatal error:  Call to a member function result() on boolean in /home/rafizagency/public_html/application/views/accounts/get_ledger_head_for_voucher.php on line 17
+[25-Jun-2017 14:11:39 Asia/Dhaka] PHP Fatal error:  Call to a member function num_rows() on boolean in /home/rafizagency/public_html/application/controllers/sales.php on line 72
+[25-Jun-2017 14:11:52 Asia/Dhaka] PHP Fatal error:  Call to a member function num_rows() on boolean in /home/rafizagency/public_html/application/controllers/sales.php on line 72
+[26-Jun-2017 17:58:45 Asia/Dhaka] PHP Fatal error:  Call to undefined method accountsmodel::daily_closing_company() in /home/rafizagency/public_html/application/controllers/accounts.php on line 318
+[29-Jun-2017 14:52:09 Asia/Dhaka] PHP Fatal error:  Call to undefined method accountsmodel::getLedgerListForVoucherEntry() in /home/rafizagency/public_html/application/controllers/accounts.php on line 81
+[30-Jun-2017 10:25:46 Asia/Dhaka] PHP Fatal error:  Call to a member function result() on boolean in /home/rafizagency/public_html/application/views/accounts/get_ledger_head_for_voucher.php on line 17
+[01-Jul-2017 10:58:32 Asia/Dhaka] PHP Fatal error:  Call to a member function result() on boolean in /home/rafizagency/public_html/application/views/accounts/get_ledger_head_for_voucher.php on line 17
+[05-Jul-2017 15:45:10 Asia/Dhaka] PHP Fatal error:  Call to a member function result() on boolean in /home/rafizagency/public_html/application/views/accounts/get_ledger_head_for_voucher.php on line 17
+[05-Jul-2017 15:46:20 Asia/Dhaka] PHP Fatal error:  Call to undefined method accountsmodel::createNewLedgerHeadInDb() in /home/rafizagency/public_html/application/controllers/accounts.php on line 113
+[05-Jul-2017 15:47:37 Asia/Dhaka] PHP Fatal error:  Call to a member function result() on boolean in /home/rafizagency/public_html/application/views/accounts/get_ledger_head_for_voucher.php on line 17
+[05-Jul-2017 15:48:34 Asia/Dhaka] PHP Fatal error:  Call to undefined method accountsmodel::createNewLedgerHeadInDb() in /home/rafizagency/public_html/application/controllers/accounts.php on line 113
+[05-Jul-2017 19:44:03 Asia/Dhaka] PHP Fatal error:  Call to undefined method accountsmodel::createNewLedgerHeadInDb() in /home/rafizagency/public_html/application/controllers/accounts.php on line 113
+[05-Jul-2017 20:05:08 Asia/Dhaka] PHP Fatal error:  Call to undefined method accountsmodel::createNewLedgerHeadInDb() in /home/rafizagency/public_html/application/controllers/accounts.php on line 113
+[09-Jul-2017 14:49:45 Asia/Dhaka] PHP Fatal error:  Call to undefined method accountsmodel::createNewLedgerHeadInDb() in /home/rafizagency/public_html/application/controllers/accounts.php on line 113
+[09-Jul-2017 16:22:05 Asia/Dhaka] PHP Fatal error:  Call to undefined method accountsmodel::createNewLedgerHeadInDb() in /home/rafizagency/public_html/application/controllers/accounts.php on line 113
+[09-Jul-2017 18:29:30 Asia/Dhaka] PHP Fatal error:  Call to a member function getSupplierListForMedicineController() on null in /home/rafizagency/public_html/application/controllers/settings.php on line 71
+[09-Jul-2017 18:40:11 Asia/Dhaka] PHP Fatal error:  Cannot use object of type stdClass as array in /home/rafizagency/public_html/application/views/settings/shopinfo.php on line 92
+[09-Jul-2017 18:40:50 Asia/Dhaka] PHP Fatal error:  Cannot use object of type stdClass as array in /home/rafizagency/public_html/application/views/settings/shopinfo.php on line 92
+[10-Jul-2017 00:00:32 Asia/Dhaka] PHP Fatal error:  Call to a member function num_rows() on boolean in /home/rafizagency/public_html/application/controllers/sales.php on line 72
+[10-Jul-2017 10:39:05 Asia/Dhaka] PHP Fatal error:  Cannot use object of type stdClass as array in /home/rafizagency/public_html/application/views/settings/shopinfo.php on line 92
+[12-Jul-2017 18:23:56 Asia/Dhaka] PHP Fatal error:  Call to a member function num_rows() on boolean in /home/rafizagency/public_html/application/controllers/sales.php on line 83
+[12-Jul-2017 18:24:10 Asia/Dhaka] PHP Fatal error:  Call to a member function num_rows() on boolean in /home/rafizagency/public_html/application/controllers/sales.php on line 83
+[14-Jul-2017 17:02:42 Asia/Dhaka] PHP Fatal error:  Call to undefined method accountsmodel::getActiveLedgerList() in /home/rafizagency/public_html/application/controllers/accounts.php on line 138
+[14-Jul-2017 17:02:43 Asia/Dhaka] PHP Fatal error:  Call to undefined method accountsmodel::getActiveLedgerList() in /home/rafizagency/public_html/application/controllers/accounts.php on line 138
+[14-Jul-2017 17:02:43 Asia/Dhaka] PHP Fatal error:  Call to undefined method accountsmodel::getActiveLedgerList() in /home/rafizagency/public_html/application/controllers/accounts.php on line 138
+[14-Jul-2017 17:06:34 Asia/Dhaka] PHP Fatal error:  Call to undefined method accountsmodel::getActiveLedgerList() in /home/rafizagency/public_html/application/controllers/accounts.php on line 138
+[14-Jul-2017 17:06:38 Asia/Dhaka] PHP Fatal error:  Call to undefined method accountsmodel::getActiveLedgerList() in /home/rafizagency/public_html/application/controllers/accounts.php on line 138
+[15-Jul-2017 13:50:58 Asia/Dhaka] PHP Fatal error:  Call to a member function num_rows() on boolean in /home/rafizagency/public_html/application/controllers/sales.php on line 83
+[15-Jul-2017 14:11:59 Asia/Dhaka] PHP Fatal error:  Call to undefined method accountsmodel::getActiveLedgerList() in /home/rafizagency/public_html/application/controllers/accounts.php on line 138
+[19-Jul-2017 21:40:29 Asia/Dhaka] PHP Fatal error:  Call to undefined function intdiv() in /home/rafizagency/public_html/dump/application/views/sales/stocksearch.php on line 18
+[20-Jul-2017 01:42:43 Asia/Dhaka] PHP Fatal error:  Call to a member function num_rows() on boolean in /home/rafizagency/public_html/dump/application/controllers/sales.php on line 83

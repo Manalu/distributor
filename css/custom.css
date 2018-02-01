@@ -1,0 +1,34 @@
+/* 
+    Document   : custom.css
+    Created on : Apr 16, 2017, 2:32:08 PM
+    Author     : tarek
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+root { 
+    display: block;
+}
+
+input[type=number]::-webkit-inner-spin-button, 
+input[type=number]::-webkit-outer-spin-button { 
+  -webkit-appearance: none; 
+  margin: 0; 
+}
+.nooutline{
+    background-color: #FAFAFA;
+    outline: none;
+}
+.nooutline:focus{
+    background-color: #FAFAFA;
+}
+@media print{
+.row-fluid .span4 {
+      width: 31.623931623931625%;
+      *width: 31.570740134569924%; }
+}
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+   .row-fluid .span4 {
+      width: 31.623931623931625%;
+      *width: 31.570740134569924%; }
+}
